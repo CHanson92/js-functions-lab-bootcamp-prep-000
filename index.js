@@ -1,6 +1,6 @@
 // write your code below!
 function happyHolidays() {
-log.console("Happy holidays!")
+return("Happy holidays!")
 }
 
 function happyHolidaysTo() {
