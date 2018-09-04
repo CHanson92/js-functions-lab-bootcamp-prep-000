@@ -1,2 +1,2 @@
 // write your code below!
-function(happyHol)
+function(happyHolidays)
